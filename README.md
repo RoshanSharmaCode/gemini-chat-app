@@ -15,6 +15,11 @@ A functional clone of Google Gemini built using React.js and the Google Gemini A
 - 🆕 New Chat functionality
 - 📂 Collapsible sidebar navigation
 
+## Live Demo
+```
+https://gemini-chat-app-olive.vercel.app
+```
+
 ---
 
 ## 🛠️ Tech Stack
