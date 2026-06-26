@@ -127,7 +127,3 @@ Through this project, I learned:
 - Responsive Web Design
 - Dynamic Rendering Techniques
 - UI/UX Improvements with Loading & Typing Effects
-
----
-
-⭐ If you like this project, give it a star!
